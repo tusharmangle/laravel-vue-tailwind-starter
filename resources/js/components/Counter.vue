@@ -1,6 +1,6 @@
 <template>
   <div class="my-6">
-    <div class="text-xl my-6 capitalize">clicked {{ count }} times.</div>
+    <div class="text-xl my-6 capitalize">clicked {{ count }} times...</div>
     <div class="text-red-600">
       <button
         class="bg-red-600 text-white py-2 px-5 text-xl font-semibold focus:outline-none rounded"
