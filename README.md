@@ -1,4 +1,4 @@
-## Laravel 8 + Vue 3 + Vuex 4.0 + TailwindCSS 1.9.6 Starter
+# Laravel 8 + Vue 3 + Vuex 4.0 + TailwindCSS 1.9.6 Starter
 
 ## Features
 
